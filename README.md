@@ -26,6 +26,13 @@ Served via GitHub Pages: **https://king0708.github.io/iceplant-report/**
 2. Add a linked entry to `index.html`.
 3. Commit and push to `main` — Pages redeploys automatically.
 
+## Image credits
+
+- Landing page photo: *Carpobrotus edulis 4* by
+  [Lubman04](https://commons.wikimedia.org/wiki/File:Carpobrotus_edulis_4.JPG),
+  licensed [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/),
+  via Wikimedia Commons. Displayed unmodified. Stored at `assets/carpobrotus_edulis_lubman04.jpg`.
+
 ## Notes
 
 - Reports are exported as self-contained HTML from Quarto, so all figures and

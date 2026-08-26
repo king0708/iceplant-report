@@ -37,6 +37,15 @@
   .report-desc { margin: .5rem 0 0; font-size: .96rem; }
   footer { margin-top: 3rem; color: var(--muted); font-size: .85rem; }
   code { background: var(--card); border: 1px solid var(--border); border-radius: 5px; padding: .1em .4em; font-size: .85em; }
+  figure.hero { margin: 0 0 2.25rem; }
+  figure.hero img {
+    display: block; width: 100%; height: 320px; object-fit: cover;
+    border-radius: 12px; border: 1px solid var(--border);
+  }
+  figure.hero figcaption {
+    color: var(--muted); font-size: .8rem; margin-top: .5rem; text-align: right;
+  }
+  figure.hero a { color: var(--muted); }
 </style>
 </head>
 <body>
@@ -45,6 +54,16 @@
     <h1>Iceplant Reports</h1>
     <p class="sub">Rendered reports for the global iceplant (<em>Carpobrotus</em>) occurrence project.</p>
   </header>
+
+  <figure class="hero">
+    <img src="assets/carpobrotus_edulis_lubman04.jpg"
+         alt="Carpobrotus edulis, an iceplant, with fleshy leaves and white flowers">
+    <figcaption>
+      <em>Carpobrotus edulis</em> &middot; Photo by
+      <a href="https://commons.wikimedia.org/wiki/File:Carpobrotus_edulis_4.JPG">Lubman04</a>,
+      <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+    </figcaption>
+  </figure>
 
   <ul>
     <li>
