@@ -18,7 +18,8 @@ Served via GitHub Pages: **https://king0708.github.io/iceplant-report/**
 ├── README.md
 └── reports/
     ├── global-occurrence.html   # Global iceplant (Carpobrotus) occurrence
-    └── imagery-deepdive.html    # Regional imagery deep-dive (NZ · France · Portugal · Spain)
+    ├── imagery-deepdive.html    # Regional imagery deep-dive (NZ · France · Portugal · Spain)
+    └── segmentation-results.html # Iceplant segmentation: initial model results on Corsica
 ```
 
 ## Adding a report
